@@ -13,3 +13,7 @@ Now out work will continue locally:
 
 How to save afetr adding some text in sublime on Windows Control + S
 or Click on file and save
+
+We do not have to push oen commit at the time
+
+
