@@ -18,3 +18,11 @@ We do not have to push one commit at the time
 
 You can push multiple commits in one shot
 There is no limit
+
+
+If you have changes in changes tab you do not wish to commit you can right click and select discard changes, it will also remove it from the sublime
+
+
+If you have commit that you did not push yet, you have option to undo the last commit by clicking on undo button right under Commit to master button
+
+Saturday
