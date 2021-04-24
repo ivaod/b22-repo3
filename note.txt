@@ -16,5 +16,5 @@ or Click on file and save
 
 We do not have to push oen commit at the time
 
-You can push multiple commir=ts in one shot
+You can push multiple commits in one shot
 There is no limit
