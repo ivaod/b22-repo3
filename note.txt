@@ -10,3 +10,6 @@ Now out work will continue locally:
 2.commited the change to local repo
 3.we want the cnage to be reflected in remote repository so We pushed local commits to remote repository using push origin button
 4.observe it ahs beeen added to your repository unded GitHub.com 
+
+How to save afetr adding some text in sublime on Windows Control + S
+or Click on file and save
