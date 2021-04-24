@@ -3,3 +3,10 @@ Few thins happend:
 1.It automatically created new Remote Repo under GitHUb.com account
 2.Made connection with our local git repo
 3.Added all your commits to your repo
+
+Now out work will continue locally:
+
+1.add a new file called note.txt
+2.commited the change to local repo
+3.we want the cnage to be reflected in remote repository so We pushed local commits to remote repository using push origin button
+4.observe it ahs beeen added to your repository unded GitHub.com 
